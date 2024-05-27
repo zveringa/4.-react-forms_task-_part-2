@@ -7,13 +7,14 @@
 
 .app {
 	/* text-align: center; */
-	max-width: 700px;
+	/* max-width: 700px; */
 	margin: 0 auto;
 	padding: 20px;
 }
 
 .error {
 	color: var(--error-color);
+	margin-left: 10px;
 	/* font-weight: bold; */
 }
 
